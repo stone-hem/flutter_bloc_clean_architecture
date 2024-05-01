@@ -1,0 +1,4 @@
+class AppSecrets{
+  static const supaBaseUrl='https://xlclgtuvlrtfitlpfpgv.supabase.co';
+  static const supaBaseAnonKey='eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InhsY2xndHV2bHJ0Zml0bHBmcGd2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTA1MDU5NTgsImV4cCI6MjAyNjA4MTk1OH0.NkBnX3c8SwlFxruZf3rBolcsSvIu9pxRLQ5ogjP0WgM';
+}
